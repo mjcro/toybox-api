@@ -29,7 +29,7 @@
     <scm>
         <connection>scm:git:git://github.com/mjcro/toybox-api.git</connection>
         <developerConnection>scm:git:ssh://github.com:mjcro/toybox-api.git</developerConnection>
-        <url>http://github.com/mjcro/interfaces/tree/main</url>
+        <url>http://github.com/mjcro/toybox-api/tree/main</url>
     </scm>
 
     <properties>
